@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tes</h1>
 <h3 align="center">Data Analyst | Statistician | MSc Advanced Data Analytics</h3>
+<h3 align="center">Turning complex data into actionable insights.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
