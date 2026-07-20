@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tes</h1>
 <h3 align="center">Statistics • Data Analytics • Machine Learning</h3>
-<h3 align="center">*Understanding the stories data tells.*</h3>
+<h3 align="center"><em>Understanding the stories data tells.</em></h3>
 
 
 I'm curious by nature. I enjoy exploring questions, working through uncertainty, and building evidence that helps people understand complex problems more clearly.
